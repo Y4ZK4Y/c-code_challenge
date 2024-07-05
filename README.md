@@ -1,0 +1,1 @@
+Some of 42 exam exercises 
